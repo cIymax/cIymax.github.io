@@ -27,8 +27,8 @@ img{width:100%;object-fit:contain;display:block;max-height:60px;
 img:hover{transform:scale(1.15); transition: all 0.2s ease-in-out;/*padding: 2px*/;transform-origin: center; -webkit-filter: brightness(100%);
     border: 10px solid white; }
 
-#notMyImg img:hover{transform:scale(1.15); transition: all 0.2s ease-in-out;/*padding: 2px*/;transform-origin: center; -webkit-filter: brightness(100%);
-    border: 10px solid white; }
+#notMyImg img:hover{transform:scale(1.00); transition: all 0.2s ease-in-out;/*padding: 2px*/;transform-origin: center; -webkit-filter: brightness(100%);
+    border: 0px; }
 
 
 .theme_editor_widget .forms_image_uploader_widget .position_fields .label_text{text-align:right;padding-right:5px}.theme_editor_widget .forms_image_uploader_widget .remove_image_btn{width:100%;margin-top:5px}.theme_editor_widget .css_editor .maximize_button{padding-left:5px;padding-right:5px;margin-right:2px;text-decoration:none;color:var(--itchio_body_color_med)}.theme_editor_widget .css_editor textarea{box-sizing:border-box;width:100%;background-color:var(--itchio_white_back);color:var(--itchio_body_color);font-size:12px;border:1px solid;border-color:var(--itchio_border_color);border-radius:4px}.theme_editor_widget .more_group{margin-top:5px}.theme_editor_widget .more_group fieldset{margin-left:-10px;margin-right:-10px;padding:10px;min-width:0;border-color:var(--itchio_border_color)}.theme_editor_widget .more_group legend{padding:0;width:100%}.theme_editor_widget .more_group.open .toggle_button{color:var(--itchio_body_color)}.theme_editor_widget .more_group .toggle_button{font-family:Lato, sans-serif;font-family:var(--itchio_default_font, Lato),sans-serif;box-sizing:border-box;font-size:14px;font-weight:bold;border:0;background-color:var(--itchio_white_back);padding:2px 6px;border-radius:2px;border:1px solid;border-color:var(--itchio_border_color);cursor:pointer;color:var(--itchio_body_color_light);width:100%}.theme_editor_widget .more_group .toggle_button:hover{border-color:var(--itchio_input_border_color)}.theme_editor_widget .more_group .more_children>:last-child{margin-bottom:0}
